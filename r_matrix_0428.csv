@@ -1,0 +1,18 @@
+Score,Tableau,Thoughtspot,Qlik,SAP,Feature,Description
+0,1,1,0,1,the Self Service features,Ability to create and perform individualized reports and analytics with minimal IT Support
+0,1,0,1,1,the Self Service features,Ability to isolate specific data points of interest and save dynamically within the data model for further analysis
+0,1,1,0,1,the Self Service features,Ability to browse or search the repository of available production data sources available for analysis and launch a new analysis from a selected data source
+0,1,0,1,1,the Self Service features,Ability to send automatic notifications based on user configured parameters
+0,1,0,1,1,the Self Service features,Ability to predict the outcome of a decision given a certain range of variables like what-if analysis - (Sensitivity Analysis based on Assumption)
+0,1,0,1,0,the Self Service features,Ability to modify and augment the existing data model within the flow of analysis and content creation once connected to a trusted data source
+0,1,0,0,0,the Self Service features,Ability to interactively correct data issues that surface during the analysis process
+0,0,1,1,1,the Self Service features,Document-style output
+0,1,1,1,0,the Interactivity of the Dashboard features,Control the scope of analysis interactively through native capabilities of the platform
+0,1,1,1,0,the Interactivity of the Dashboard features,Search on keywords to drive filters and change the scope of analysis
+0,1,1,1,0,Embeddability features,"Ability to embed analytic content into a business process, an application or a portal within organization"
+0,1,0,0,1,Collaboration features,Ability to annotate and provide comments directly within the content using any form factor
+0,0,0,0,1,Data Preparation features,"Ability to blend, shape and cleanse data for analytics (data wrangling)"
+0,1,0,1,0,Data Preparation features,Ability to perform more complex data wrangling with Python
+0,1,1,0,1,Data Governance features,"Ability to define, manage, and update data models used for analysis"
+0,1,1,0,1,Data Governance features,Ability to monitor and track usage metrics of centrally-defined data modelsow 3
+0,1,0,0,0,Data Governance features,"Ability to autonomously define, update, and expose field-level metadata to users"
